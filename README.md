@@ -1,5 +1,5 @@
 # cs107test
 
-![Build Status](https://travis-ci.org/dsondak/cs207testing.svg?branch=master)] (https://travis-ci.org/dsondak/cs207testing.svg?branch=master)
+![Build Status](https://travis-ci.org/ninonb/cs107test.svg?branch=main)](https://travis-ci.org/ninonb/cs107test.svg?branch=main)
 
-[![Coverage Status](https://codecov.io/gh/dsondak/cs207testing/branch/master/graph/badge.svg)](https://codecov.io/gh/dsondak/cs207testing)
+[![codecov](https://codecov.io/gh/ninonb/cs107test/branch/main/graph/badge.svg?token=D248K3MOYY)](undefined)
